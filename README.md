@@ -1,2 +1,2 @@
 # My_test
-test data are available
+Repo for git command demonstartion
